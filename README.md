@@ -49,6 +49,7 @@ python change_metadata.py
 6. Return to Main Menu
 ```
 Date format: YYYY:MM:DD HH:MM:SS (example: 2025:03:21 14:30:00)
+
 GPS input: Latitude (-90 to 90) and Longitude (-180 to 180) as decimal numbers.
 
 ## Notes

@@ -58,5 +58,4 @@ PNG and other formats may lack EXIF; JPEG is recommended
 
 
 
-## Author:
-## DanyByte
+## Author: DanyByte
